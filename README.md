@@ -1,36 +1,28 @@
 # Online-Offline-Budget-Trackers
 
-
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
-
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-
-Offline Functionality:
-
-  * Enter deposits offline
-
-  * Enter expenses offline
-
-When brought back online:
-
-  * Offline entries should be added to tracker.
-
-## User Story
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
-
-## Business Context
-
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+# Table of Contents
+  1. [Description](#Description)
+  2. [Technology Used](#Technology Used)
+  3. [Installation](#Installation)
+  4. [Instructions For Use](#Instructions For Use)
+  5. [License](#License)
+  6. [Screenshot](#Screenshot)
+  7. [Questions](#Questions)
 
 
-## Acceptance Criteria
-GIVEN a user is on Budget App without an internet connection
-WHEN the user inputs a withdrawal or deposit
-THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
-- - -
+DESCRIPTION: • This is a Budget Tracker application that allows a user to add expenses and deposits to their budget with or without a connection.
+
+TECHNOLOGY USED: • JavaScript
+
+INSTALLATION: • None needed-Deployed at the given URL
+
+INSTRUCTIONS FOR USE: • User inputs a specific transaction and the amount of that transaction then chooses whether to add funds or subtraction funds. The transaction is then logged, which in turn gives a balance and displayed as well as added to the chart.
+
+LICENSE: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+SCREENSHOT:
+
 
 
 

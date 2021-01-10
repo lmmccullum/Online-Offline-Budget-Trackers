@@ -22,8 +22,3 @@ INSTRUCTIONS FOR USE: • User inputs a specific transaction and the amount of t
 LICENSE: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 SCREENSHOT:
-
-
-
-
-* Deploy your application with [Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)

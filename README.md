@@ -24,4 +24,4 @@ LICENSE: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](
 
 SCREENSHOT:
 
-QUESTIONS:
+QUESTIONS: If you have any questions, concerns or suggestions please feel free to contact me with the link below. GitHub: "https://github.com/lmmccullum"

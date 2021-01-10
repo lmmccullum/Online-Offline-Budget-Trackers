@@ -2,12 +2,13 @@
 
 # Table of Contents
   1. [Description](#Description)
-  2. [Technology Used](#Technology Used)
+  2. [Technology Used](#TechnologyUsed)
   3. [Installation](#Installation)
-  4. [Instructions For Use](#Instructions For Use)
-  5. [License](#License)
-  6. [Screenshot](#Screenshot)
-  7. [Questions](#Questions)
+  4. [Instructions For Use](#InstructionsForUse)
+  5. [Deployed URL](#Deployed_URL)
+  6. [License](#License)
+  7. [Screenshot](#Screenshot)
+  8. [Questions](#Questions)
 
 
 

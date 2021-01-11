@@ -18,7 +18,7 @@ INSTALLATION: • None needed-Deployed at the given URL
 
 INSTRUCTIONS FOR USE: • User inputs a specific transaction and the amount of that transaction then chooses whether to add funds or subtraction funds. The transaction is then logged, which in turn gives a balance and displayed as well as added to the chart.
 
-DEPLOYED URL: "https://lmmccullum.github.io/Online-Offline-Budget-Trackers/"
+DEPLOYED URL: "https://frozen-crag-31486.herokuapp.com/"
 
 LICENSE: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

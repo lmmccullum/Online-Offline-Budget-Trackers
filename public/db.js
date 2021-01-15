@@ -38,7 +38,7 @@ function checkDatabase() {
   const transaction = db.transaction(["pending"], "readwrite");
   const store = transaction.objectStore("pending");
   const getAll = store.getAll();
-
+  console.log("check data base");
 
   getAll.onsuccess = function() {
     if (getAll.result.length > 0) {
@@ -57,6 +57,7 @@ function checkDatabase() {
         // delete records if successful
         const transaction = db.transaction(["pending"], "readwrite");
         const store = transaction.objectStore("pending");
+        console.log("clear");
         store.clear();
       });
     }
